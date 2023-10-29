@@ -1,11 +1,12 @@
 # NAME: iHeartRadio
 # AUTHOR: Pando
 # REPO: https://github.com/PandoCheng/ProxyRules/
-# UPDATED: 2023-10-29 8:08:06
-# DOMAIN: 0
+# UPDATED: 2023-10-29 9:08:06
+# DOMAIN: 1
 # DOMAIN-SUFFIX: 2
 # PROCESS-NAME: 1
-# TOTAL: 3
+# TOTAL: 4
+DOMAIN,ihr-static-web.s3-website-us-east-1.amazonaws.com
 DOMAIN-SUFFIX,ihrhls.com
 DOMAIN-SUFFIX,iheart.com
 PROCESS-NAME,iHeart
