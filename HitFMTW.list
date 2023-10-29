@@ -1,0 +1,12 @@
+# NAME: HitFMTW
+# AUTHOR: Pando
+# REPO: https://github.com/PandoCheng/ProxyRules/
+# UPDATED: 2023-10-29 9:08:06
+# DOMAIN: 0
+# DOMAIN-SUFFIX: 3
+# PROCESS-NAME: 1
+# TOTAL: 4
+DOMAIN-SUFFIX,hitoradio.com
+DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,olis.com.tw
+PROCESS-NAME,HitFM
