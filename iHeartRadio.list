@@ -2,12 +2,10 @@
 # AUTHOR: Pando
 # REPO: https://github.com/PandoCheng/ProxyRules/
 # UPDATED: 2023-10-29 8:08:06
-# DOMAIN: 2
+# DOMAIN: 0
 # DOMAIN-SUFFIX: 2
 # PROCESS-NAME: 1
-# TOTAL: 5
-DOMAIN,ihrhls.com
-DOMAIN,iheart.com
+# TOTAL: 3
 DOMAIN-SUFFIX,ihrhls.com
 DOMAIN-SUFFIX,iheart.com
 PROCESS-NAME,iHeart
