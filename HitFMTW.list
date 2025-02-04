@@ -7,6 +7,6 @@
 # PROCESS-NAME: 1
 # TOTAL: 4
 DOMAIN-SUFFIX,hitoradio.com
-DOMAIN-SUFFIX,hinet.net
-DOMAIN-SUFFIX,olis.com.tw
+DOMAIN-SUFFIX,hitoradiow-hichannel.cdn.hinet.net
+DOMAIN-SUFFIX,hitfm.olis.com.tw
 PROCESS-NAME,HitFM
