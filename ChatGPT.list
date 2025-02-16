@@ -1,6 +1,6 @@
 #ChatGPT
-"domain:openai.com",
-"domain:chatgpt.com",
-"domain:sora.com",
-"domain:oaistatic.com",
-"domain:oaiusercontent.com"
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,sora.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
