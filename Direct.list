@@ -1,6 +1,7 @@
 #直连
 DOMAIN-SUFFIX,xn--csso2npqovv3a.com
 DOMAIN-SUFFIX,bilibili.li
+DOMAIN-SUFFIX,bilibili.dev
 DOMAIN-SUFFIX,18cm.one
 DOMAIN-SUFFIX,mobaibox.com
 IP-CIDR,183.207.0.0/16
