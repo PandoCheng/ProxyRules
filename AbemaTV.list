@@ -7,4 +7,4 @@ DOMAIN-SUFFIX,ameba.jp
 DOMAIN-SUFFIX,hayabusa.io
 DOMAIN-SUFFIX,mobile-collector.newrelic.com
 DOMAIN-KEYWORD,abematv.akamaized.net
-PROCESS-NAME,tv.abema
+DOMAIN-KEYWORD,ds-linear-abematv.akamaized.net
